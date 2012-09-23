@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="owner">unaffiliated/immolation</entry>
+<entry key="channels">[#immobot]</entry>
+<entry key="white">[]</entry>
+<entry key="password"/>
+<entry key="nicks">[ImmoBot`, ImmoBot_]</entry>
+<entry key="network">irc.freenode.net</entry>
+<entry key="public">false</entry>
+<entry key="black">[]</entry>
+</properties>
